@@ -1,8 +1,3 @@
-### CIS 120 Homework 8: Twitterbot
+### Twitterbot
 
-## Homework Instructions
-
-Please follow the instructions provided in the writeup
-[here](http://www.cis.upenn.edu/~cis120/current/hw/hw08), as well as the
-[Codio documentation](http://www.cis.upenn.edu/~cis120/current/codio/) or the
-[IntelliJ instructions](https://www.seas.upenn.edu/~cis120/current/intellij_setup/).
+## TRAINING DATA (W/ TWEETS) IN ORDER TO CREATE A BOT THAT RECOGNIZES AND CAN BEGIN TO PREDICT WHAT TWEETS ARE POSTED VIA MARKOV CHAIN.
