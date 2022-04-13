@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="/Users/matthewsu/Downloads/hw08_local_temp/src/main/java/org/cis120/TwitterBot.java">
+</file>
+<file name="/Users/matthewsu/Downloads/hw08_local_temp/src/test/java/org/cis120/TweetParserTest.java">
+<error line="129" column="54" severity="warning" message="WhitespaceAround: &apos;+&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="141" column="54" severity="warning" message="WhitespaceAround: &apos;+&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/Users/matthewsu/Downloads/hw08_local_temp/src/test/java/org/cis120/TwitterBotTest.java">
+<error line="10" column="8" severity="warning" message="Unused import - java.util.Collections." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+</checkstyle>
